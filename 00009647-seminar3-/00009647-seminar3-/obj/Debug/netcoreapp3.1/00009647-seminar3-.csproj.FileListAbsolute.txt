@@ -1,0 +1,120 @@
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\appsettings.json
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.exe
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csprojAssemblyReference.cache
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.AssemblyInfoInputs.cache
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.AssemblyInfo.cs
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.RazorTargetAssemblyInfo.cache
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\staticwebassets\00009647-seminar3-.StaticWebAssets.Manifest.cache
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\staticwebassets\00009647-seminar3-.StaticWebAssets.xml
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.CopyComplete
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.deps.json
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.runtimeconfig.json
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.runtimeconfig.dev.json
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.pdb
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.MvcApplicationPartsAssemblyInfo.cache
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.dll
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.pdb
+\\peter\ZDrive\00009647\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.genruntimeconfig.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.StaticWebAssets.xml
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.exe
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.deps.json
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.runtimeconfig.json
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.runtimeconfig.dev.json
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.pdb
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.AssemblyReference.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.AssemblyInfoInputs.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.AssemblyInfo.cs
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.CoreCompileInputs.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\staticwebassets\00009647-seminar3-.StaticWebAssets.Manifest.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.RazorTargetAssemblyInfo.cache
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.CopyComplete
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.dll
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.pdb
+C:\Users\lambo\Desktop\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.genruntimeconfig.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.StaticWebAssets.xml
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.exe
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.deps.json
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.runtimeconfig.json
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.runtimeconfig.dev.json
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\00009647-seminar3-.pdb
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.AssemblyReference.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.AssemblyInfoInputs.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.AssemblyInfo.cs
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.CoreCompileInputs.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\staticwebassets\00009647-seminar3-.StaticWebAssets.Manifest.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.RazorTargetAssemblyInfo.cache
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.csproj.CopyComplete
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.dll
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.pdb
+C:\Users\lambo\Desktop\not yours\00009647-seminar3-\00009647-seminar3-\obj\Debug\netcoreapp3.1\00009647-seminar3-.genruntimeconfig.cache
